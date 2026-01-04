@@ -1,0 +1,7 @@
+{
+  "name": "Busca Pacotes Lucrativos",
+  "description": "Plataforma avançada para agentes de viagens que utiliza IA para encontrar e analisar as melhores opções de voos e serviços de vaigens com foco em lucratividade, falicidade e velocidade na entrega da cotação.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
